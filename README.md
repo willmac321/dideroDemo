@@ -1,6 +1,8 @@
 ## Demo project for uploading a file
 
-Demo of uploading a pdf file to aserver. Only runs locally.  Will return a dataset and show a frequency of words in the pdf.
+Demo of uploading a pdf file to aserver that only runs locally.  There's an example invoice pdf that I nabbed of the internet for example purposes in the root folder.
+
+On completions, it will return a dataset and show a frequency of words in the pdf.
 
 ### to get started
 
