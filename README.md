@@ -46,10 +46,10 @@ in be folder to run dev server
 
 #### A few example photos
 On Load
-[landing image](landing.png)
+![landing image](landing.png)
 
 On Select
-[select image](select.png)
+![select image](select.png)
 
 On Complete
-[complete image](complete.png)
+![complete image](complete.png)
