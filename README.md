@@ -2,7 +2,6 @@
 
 Demo of uploading a pdf file to aserver. Only runs locally.  Will return a dataset and show a frequency of words in the pdf.
 
-
 ### to get started
 
 
@@ -43,3 +42,14 @@ in be folder to run dev server
 ```
  python -m flask --app server --debug run
 ```
+
+
+#### A few example photos
+On Load
+[landing image](landing.png)
+
+On Select
+[select image](select.png)
+
+On Complete
+[complete image](complete.png)
